@@ -1,0 +1,3 @@
+Book,Book,Publishing,Author book,1999,455
+Journal,Journal,12,2010,120
+Newspaper,Newspaper,1,10,2017,45
